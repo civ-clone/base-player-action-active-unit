@@ -1,4 +1,3 @@
 # base-player-action-active-unit
 
-This is a template repo.
-
+`PlayerAction` for `Unit`s that are active and need to be handled.
